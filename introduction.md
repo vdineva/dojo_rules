@@ -1,2 +1,3 @@
 Some introduction...
 Favorite Code School path: JavaScript
+deadly skilla: CSS, JS, HTML
